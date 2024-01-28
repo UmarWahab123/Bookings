@@ -1,0 +1,1 @@
+var HotelGlobal={"HotelAutoCompleteSearchUrl":"","DefaultPaymentType":"JPG","BeforeCheckinDays":0,"ShowDealine":false,"ProductCategory":"","HotelMinDuration":12,"HotelMaxDuration":12,"ArrivalDateRangeBeforeCheckIn":-2,"IsCompleteSummaryRateSearch":false,"IsCompleteDetailRateSearch":false,"MaxCheckInDate":"31/8/2021"};
